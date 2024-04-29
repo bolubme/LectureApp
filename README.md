@@ -16,6 +16,8 @@ Details Used in the Project
 
 # Prerequisites
 
+Node.js and npm installed on your system.
+
 <h2>Steps</h2>
 
 1. git clone <repository_url>
